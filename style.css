@@ -1,7 +1,19 @@
-* {
-  color: #f4df42;
+
+
+p {
+  font-size: 100%;
 }
 
-.container-fluid {
+h1 {
+  font-size: 200%
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: #ea0 !important;
+}
+
+.container {
   align: center;
+  width: 75%;
 }
